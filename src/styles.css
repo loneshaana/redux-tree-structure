@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+}
+.link:hover {
+  color: green;
+}
+.delete {
+  display: inline;
+  color: lightgray;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.delete:hover {
+  color: black;
+}
